@@ -34,3 +34,8 @@ npm run dev
 Both tasks generate the distribution ready client-side modeler application into the `public` folder.
 
 Serve the application locally or via a web server (nginx, apache, embedded).
+
+
+### References :
+
+https://codesandbox.io/s/dreamy-burnell-jpnpd?file=/package.json
